@@ -1026,7 +1026,17 @@
   "link": "./projects/One_Button_Boss_Fight/index.html",
   "icon": "ri-sword-line",
   "coverStyle": "background: linear-gradient(135deg, #7f1d1d 0%, #1f2937 100%); color:#fef2f2;"
+},
+{
+  "title": "Neon Snake Arena",
+  "category": "game",
+  "description": "A neon-styled Snake game with smooth motion, power-ups, and arena challenges.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/Neon_Snake_Arena/index.html",
+  "icon": "ri-gamepad-line",
+  "coverStyle": "background: linear-gradient(135deg, #020617 0%, #22d3ee 100%); color:#ecfeff;"
 }
+
 
 
 
